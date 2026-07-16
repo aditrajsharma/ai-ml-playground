@@ -4,63 +4,85 @@ A simple learning playground where I practiced Python, data analysis, and machin
 
 ## What I have done so far
 
-### 1. Python basics
+### 1. Python Basics
 
 - Learned variables, loops, functions, conditions, and classes.
 - Practiced with notebooks for OOP, NumPy, and Pandas.
 
-### 2. Data analysis
+---
 
-- Worked with CSV files and explored real datasets.
+### 2. Data Analysis
+
+- Worked with CSV files and explored real-world datasets.
 - Learned how to inspect data, clean it, and visualize patterns.
-- Basic stats idea:
+- Basic statistics concept:
 
-  $$
-  \mu = \frac{\Sigma x}{n}
-  $$
+$$
+\mu = \frac{\sum x}{n}
+$$
 
-### 3. Pandas and visualization
+---
+
+### 3. Pandas and Visualization
 
 - Used Pandas to filter, group, sort, and analyze data.
-- Tried plotting with Matplotlib to understand trends and distributions.
+- Created visualizations using Matplotlib to understand trends and distributions.
 
-### 4. Machine learning basics
+---
 
-- Built regression models to predict values.
-- Simple formula:
+### 4. Machine Learning Basics
 
-  $$
-  y = mx + b
-  $$
+- Built regression models to predict numerical values.
+- Linear Regression formula:
 
-- Applied this in car price prediction and insurance cost prediction.
+$$
+y = mx + b
+$$
 
-### 5. Classification models
+- Applied regression techniques in:
+  - Car Price Prediction
+  - Insurance Cost Prediction
 
-- Learned how classification predicts categories like yes/no.
-- Used logistic regression for heart disease prediction.
-- Formula:
+---
 
-  $$
-  p = \frac{1}{1 + e^{-z}}
-  $$
+### 5. Classification Models
 
-### 6. Model tuning
+- Learned how classification models predict categories such as Yes/No.
+- Used Logistic Regression for Heart Disease Prediction.
+- Logistic function:
 
-- Tried GridSearchCV to find better model settings.
-- Learned that tuning helps improve performance.
+$$
+p = \frac{1}{1 + e^{-z}}
+$$
 
-### 7. Small project deployment
+---
 
-- Turned a machine learning idea into a simple app.
-- Built a basic heart disease prediction app from a notebook.
+### 6. Model Tuning
 
-## Quick memory guide
+- Used GridSearchCV to find better model parameters.
+- Learned how hyperparameter tuning improves model performance.
 
-- Python = the language of practice
-- Data analysis = understand the data
-- Regression = predict numbers
-- Classification = predict classes
-- Tuning = improve the model
+---
 
-This repo is a record of my learning journey from basics to simple ML projects.
+### 7. Small Project Deployment
+
+- Turned machine learning ideas into simple applications.
+- Built a basic Heart Disease Prediction App from a Jupyter Notebook.
+
+---
+
+## Quick Memory Guide
+
+| Concept | Meaning |
+|--------|--------|
+| Python | The language of practice |
+| Data Analysis | Understand the data |
+| Regression | Predict numerical values |
+| Classification | Predict categories |
+| Tuning | Improve the model |
+
+---
+
+## Final Note
+
+This repository is a record of my learning journey—from Python fundamentals to building simple machine learning projects.

@@ -1,6 +1,6 @@
 # Ai-ml-playground
 
-A simple learning playground where I practiced Python, data analysis, and machine learning step by step.
+A simple AI learning playground where I practiced Python, data analysis, and machine learning step by step.
 
 ## What I have done so far
 
